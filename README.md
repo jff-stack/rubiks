@@ -1,2 +1,2 @@
-# rubiks
-html rubiks cubes
+# RUBIKS CUBE!
+solve it digitally :)
